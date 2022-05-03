@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PsycheMax
 - 👀 I’m interested in Web Development, AI and Machine Learning, A11y
-- 🌱 I’m currently learning Angular, React, C#
+- 🌱 I’m currently learning Rust, C#, Python, MySQL
 - 💞️ I’m looking to collaborate on whatever sounds interesting, really!
 - 📫 How to reach me https://maxpace.net
 
